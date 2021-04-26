@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Client.AccountManagementWindow" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="5.25" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAQAAAAAIgAgAAgIKJACAAAAAEIAASgAAEAA=</HashCode>
+      <FileName>AccountManagementWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Client.ClientDataController">
+    <Position X="9" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AwMgABEBxQACAABILSAIBAAEABDCAAoEAJAQAIAVAAI=</HashCode>
+      <FileName>ClientDataController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Client.MainWindow" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>gBMAAAAAQAASAAAIggAAAAIDAAAAAAAAAABBAAAAIAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Client.TransactionData">
+    <Position X="5.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAACAIAAAAAAAAAAAAgAAgAAAAAAAAAABAAA=</HashCode>
+      <FileName>TransactionData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Client.TransactionsManagementWindow" BaseTypeListCollapsed="true">
+    <Position X="6" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AACAYAIiAAACAAAIiAgEAAICBAAAAMgAEKAADgAAEAA=</HashCode>
+      <FileName>TransactionsManagementWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Client.UserManagementWindow" BaseTypeListCollapsed="true">
+    <Position X="3.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAEAAAIggACAAIABEAAAAAAAIAACgAAEgA=</HashCode>
+      <FileName>UserManagementWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
